@@ -1,0 +1,136 @@
+body {
+    background-image: url(img/chalkboard.jpg);
+}
+
+h6 {
+    color: #DCDCDC;
+    margin: 0 0 0 10px;
+}
+
+.hh6 {
+    font-family: "Lucida Console", Courier, monospace;
+}
+
+#logoImg {
+    margin: 0;
+    padding: 0;
+}
+
+#hesabButton {
+    margin-left: 840px;
+}
+
+hr.style2 {
+    border-top: 3px double #8c8b8b;
+    margin: 0;
+    padding: 0;
+}
+
+.cardUst {
+    width: 230px;
+    height: 400px;
+    border-radius: 5px;
+    border: solid 2px black;
+    float: left;
+    background-color: #424242;
+    text-align: center;
+    margin: 0 5px 5px 0;
+    color: ivory;
+}
+
+.ustCardDiv1 {
+    width: 230px;
+    height: 200px;
+}
+
+.zaman {
+    width: 230px;
+    height: 80px;
+}
+
+.ustCardDiv2 {
+    width: 226px;
+    height: 108px;
+    border-top: 3px double #8c8b8b;
+    padding: 12px 0 0 0;
+}
+
+#cardHesabiBaglabtn {
+    margin: 10px auto;
+}
+
+.cardAlt {
+    width: 230px;
+    height: 260px;
+    border-radius: 5px;
+    border: solid 2px black;
+    float: left;
+    background-color: #424242;
+    text-align: center;
+    margin: 0 5px 5px 0;
+    color: ivory;
+}
+
+.lineAlt {
+    width: 226px;
+    height: 8px;
+    border-top: 3px double #8c8b8b;
+    line-height: 12px;
+    padding: 10px 0 0 0;
+    margin: 30px auto;
+}
+
+.myBody {
+    width: 950px;
+    /* height: 100px; */
+    margin: 100px auto;
+}
+
+.ustLogo {
+    margin: 20px 0 20px 0;
+}
+
+.altLogo {
+    margin: 15px 0 15px 0;
+}
+
+.cardUst:hover {
+    cursor: pointer;
+}
+
+.cardAlt:hover {
+    cursor: pointer;
+}
+
+#modalBody {
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+}
+
+#modalBodyH6 {
+    font: bold 18px tahoma;
+    color: #2F4F4F;
+}
+
+#cay {
+    margin: 5px 0 0 0;
+}
+
+
+/* table */
+
+#classModal {}
+
+.modal-bodyTable {
+    overflow-x: auto;
+}
+
+.tablebasliq {
+    background-color: cadetblue;
+}
+
+#btnModalTime,
+#btnModalCafe {
+    display: none;
+}
